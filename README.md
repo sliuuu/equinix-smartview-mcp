@@ -1,10 +1,11 @@
-# Equinix SmartView MCP Server
+# Unoffical Equinix SmartView MCP Server
 
 [![GitHub release](https://img.shields.io/github/v/release/sliuuu/equinix-smartview-mcp)](https://github.com/sliuuu/equinix-smartview-mcp/releases)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-MCP (Model Context Protocol) server for Equinix SmartView Data Center Infrastructure Management (DCIM) APIs with OAuth 2.0 authentication.
+An unofficial Model Context Protocol (MCP) server implementation for integrating Equinix SmartView — the Data Center Infrastructure Management (DCIM) API — with Claude Desktop.
+This project enables Claude to query live data from SmartView (such as power, temperature, and environmental telemetry) via authenticated API calls, providing real-time operational context for AI-assisted workflows.
 
 ## 🚀 Features
 
@@ -156,5 +157,5 @@ MIT License - see [LICENSE](LICENSE) file for details
 ---
 
 **Version**: 2.0.0  
-**Author**: Sam Liu (Equinix)  
+**Author**: Samuel Liu 
 **Status**: Production Ready
