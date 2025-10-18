@@ -157,5 +157,5 @@ MIT License - see [LICENSE](LICENSE) file for details
 ---
 
 **Version**: 2.0.0  
-**Author**: Samuel Liu 
+**Author**: Samuel Liu
 **Status**: Production Ready
