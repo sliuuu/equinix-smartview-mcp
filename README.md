@@ -151,7 +151,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 ## 💬 Support
 
 - **Issues**: [GitHub Issues](https://github.com/sliuuu/equinix-smartview-mcp/issues)
-- **Email**: api-support@equinix.com
 - **Docs**: https://docs.equinix.com
 
 ---
