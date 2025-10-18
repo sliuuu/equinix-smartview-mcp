@@ -157,6 +157,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 ---
 
 **Version**: 2.0.0  
-**Author**: Samuel Liu - With assistance from Claude Desktop
+**Author**: Sam - With assistance from Claude Desktop
 
 **Status**: Experimental
